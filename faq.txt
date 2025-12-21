@@ -1,0 +1,468 @@
+# Frequently Asked Questions - SnackVault
+
+## General Questions
+
+### Q1: What is SnackVault?
+**A:** SnackVault is a smart vending machine service provider offering 24/7 snack and beverage access for residential apartments, educational institutions, offices, and commercial spaces. We handle installation, maintenance, restocking, and support.
+
+### Q2: Where does SnackVault operate?
+**A:** Currently, SnackVault operates across India. We're expanding to new regions regularly. Contact us to check if we serve your area.
+
+### Q3: What types of spaces can have a SnackVault machine?
+**A:** Our machines are suitable for:
+- Residential apartments and societies
+- Schools and colleges
+- Corporate offices
+- Hospitals and clinics
+- Hotels and restaurants
+- Shopping malls
+- Gyms and fitness centers
+- Public spaces and transit areas
+
+### Q4: How do I get started?
+**A:** Simply fill out the contact form on our website, call us at +91-9154256438, or email hellosnackvault@gmail.com. Our team will discuss your requirements and schedule a site visit.
+
+---
+
+## Installation & Setup
+
+### Q5: Is installation free?
+**A:** Yes! We provide completely free installation at your location. No hidden charges.
+
+### Q6: How long does installation take?
+**A:** Typical installation takes 2-4 hours depending on space requirements and electrical setup.
+
+### Q7: What are the space requirements?
+**A:** Machines require:
+- Minimum floor space: 2.5 ft x 2 ft
+- Height clearance: 6 ft minimum
+- Stable, even flooring
+- Nearby power outlet (standard 15A)
+- Safe, accessible location
+
+### Q8: Do you provide power connections?
+**A:** We don't install new electrical connections, but we work with your electrician if needed. We require a standard 15A power outlet within 10 feet of the machine location.
+
+### Q9: What if my space doesn't have an outlet?
+**A:** We can recommend licensed electricians to install one. Electrical work costs are borne by you.
+
+### Q10: How long is the installation process from booking to operational?
+**A:** Typically 7-14 days after confirming your location and signing the service agreement.
+
+---
+
+## Service & Maintenance
+
+### Q11: How often are machines restocked?
+**A:** Restocking frequency depends on your contract:
+- **Standard:** Weekly
+- **High-traffic locations:** 2-3 times weekly
+- **Custom:** As per agreement
+
+### Q12: What happens if a machine breaks down?
+**A:** Contact us immediately at hellosnackvault@gmail.com or +91-9154256438. Our response time is within 48 hours for standard issues and 24 hours for critical problems.
+
+### Q13: Do you provide emergency maintenance?
+**A:** Yes, emergency maintenance is available for critical issues affecting customer access. Contact our support team for details.
+
+### Q14: What if a product is expired or stale?
+**A:** Report it immediately. We will:
+- Replace the product at no cost
+- Issue a refund if already purchased
+- Investigate quality issues
+- Prevent future occurrences
+
+### Q15: How do you ensure product quality?
+**A:** We:
+- Source from trusted suppliers
+- Conduct regular quality checks
+- Maintain proper storage conditions
+- Monitor expiration dates closely
+- Replace expired stock promptly
+
+### Q16: What if the machine runs out of change?
+**A:** Our team monitors cash levels regularly. If it occurs, customers can:
+- Use digital payment (where available)
+- Contact support for immediate assistance
+- Visit again when restocked
+
+---
+
+## Payments & Billing
+
+### Q17: What are the pricing models?
+**A:** We offer flexible options:
+- **Revenue Sharing:** We share profits from sales
+- **Fixed Monthly Fee:** Predictable monthly cost
+- **Hybrid Model:** Base fee + revenue share
+- Custom arrangements available
+
+### Q18: What are the contract terms?
+**A:** Standard terms are:
+- **Minimum contract:** 1 year
+- **Renewal:** Auto-renews unless terminated with 30 days notice
+- **Early termination:** Possible with applicable fees (details in agreement)
+
+### Q19: How are payments processed?
+**A:** Multiple payment options:
+- Bank transfer/NEFT
+- Credit/debit card
+- UPI
+- Cheque
+- Digital wallets
+
+### Q20: What is included in the service fee?
+**A:** Our fees typically cover:
+- Machine installation and setup
+- Maintenance and repairs
+- Regular restocking
+- 24/7 support
+- Product inventory management
+- Machine sanitization
+- Software updates
+
+### Q21: Are there additional charges?
+**A:** Possible additional charges include:
+- Relocation of machine (if requested)
+- Damage repairs beyond normal wear
+- Custom product sourcing
+- Extended warranty options
+
+### Q22: What happens if I want to terminate early?
+**A:** Early termination policies:
+- Must provide 30 days written notice
+- May incur early termination fees (as per agreement)
+- Final billing will be settled
+- Machine will be removed by our team
+
+### Q23: Do you offer discounts for long-term contracts?
+**A:** Yes! Discounts available for:
+- 2+ year commitments
+- Multiple machine installations
+- High-volume locations
+- Corporate bulk partnerships
+
+---
+
+## Products & Offerings
+
+### Q24: What products are available?
+**A:** Our typical inventory includes:
+- **Snacks:** Chips, cookies, nuts, granola bars
+- **Beverages:** Soft drinks, water, energy drinks, coffee, tea
+- **Healthy Options:** Fruits, yogurt, protein bars, salads
+- **Specialty Items:** Regional favorites, premium brands
+
+### Q25: Can I request specific products?
+**A:** Absolutely! We accommodate product requests based on:
+- Your location's preferences
+- Demand patterns
+- Supplier availability
+- Profit margins
+
+### Q26: How fresh are the products?
+**A:** We ensure freshness through:
+- Regular inventory rotation (FIFO method)
+- Weekly/bi-weekly restocking
+- Temperature-controlled storage
+- Expiration date monitoring
+- Quality supplier partnerships
+
+### Q27: Do you offer healthy or organic options?
+**A:** Yes! We provide:
+- Organic snacks and drinks
+- Low-calorie options
+- Sugar-free beverages
+- Nutritious protein bars
+- Fresh fruit selections
+- Dietary-specific options (vegan, gluten-free, etc.)
+
+### Q28: Can dietary requirements be accommodated?
+**A:** Yes, we work with you to stock:
+- Allergen-free products
+- Vegan/vegetarian options
+- Gluten-free items
+- Halal-certified products
+- Religious/cultural preferences
+
+### Q29: What payment methods do machines accept?
+**A:** Machines accept:
+- Cash (coins and notes)
+- Digital payments (UPI, cards)
+- Mobile wallets (GooglePay, PhonePe, Paytm)
+- Contactless payments
+- QR code payments
+
+### Q30: Are there loyalty programs?
+**A:** We're developing a loyalty app featuring:
+- Points per purchase
+- Exclusive discounts
+- Special offers
+- Birthday rewards
+- Referral bonuses
+
+---
+
+## Technical & Operational
+
+### Q31: How do I purchase items from the machine?
+**A:** Simple 4-step process:
+1. Select your item on the screen/display
+2. Choose payment method
+3. Complete payment
+4. Collect your product
+
+### Q32: What if the machine doesn't dispense my item?
+**A:** Immediately:
+1. Note the item code and time
+2. Contact our support with photo/video evidence
+3. We'll refund or replace your item
+4. Report malfunction for repair
+
+### Q33: How do I report a problem?
+**A:** Multiple ways to report:
+- **Phone:** +91-9154256438
+- **Email:** hellosnackvault@gmail.com
+- **Website:** Contact form at snackvault.in
+- **In-App:** Through SnackVault mobile app (coming soon)
+
+### Q34: What is your response time for issues?
+**A:**
+- **Standard issues:** 48 hours
+- **Critical issues:** 24 hours
+- **Emergencies:** Same day
+- **Preventive maintenance:** Regular scheduled visits
+
+### Q35: Do machines have cameras or monitoring?
+**A:** Yes, security monitoring includes:
+- CCTV surveillance (for security)
+- Real-time inventory tracking
+- Sales monitoring
+- Tamper detection
+- Data is protected per privacy policy
+
+### Q36: Is my purchase data private?
+**A:** Yes:
+- Transactions are encrypted
+- No personal identification required for cash purchases
+- Digital purchase data is secure
+- We comply with data protection laws
+- See our Privacy Policy for details
+
+### Q37: What is your data security protocol?
+**A:** We implement:
+- SSL/TLS encryption
+- PCI-DSS compliance for payments
+- Regular security audits
+- Firewall protection
+- Secure backup systems
+
+---
+
+## Troubleshooting
+
+### Q38: The machine is not turning on. What should I do?
+**A:** Check:
+1. Power outlet is working
+2. Machine power switch is ON
+3. No tripped circuit breakers
+4. Contact support if issue persists
+
+### Q39: The screen is frozen or unresponsive.
+**A:** Try:
+1. Wait 30 seconds
+2. Press the reset button (if visible)
+3. Power cycle: Turn off for 2 minutes, then on
+4. Contact support if unresolved
+
+### Q40: How do I report a jammed product?
+**A:** 
+1. Don't force the machine
+2. Contact support immediately
+3. Provide item code, location, and photo
+4. We'll arrange resolution (refund/replacement)
+
+### Q41: The card reader isn't working.
+**A:**
+1. Try another payment method
+2. Report to support
+3. We'll repair or replace the reader
+4. Card payment will be restored
+
+### Q42: What if I lost my receipt?
+**A:** 
+- Digital receipts available via email
+- Contact support with transaction details
+- Provide time and location
+- We can verify and assist
+
+---
+
+## Policies & Compliance
+
+### Q43: What is your refund policy?
+**A:** Refunds provided for:
+- Expired or contaminated products
+- Non-delivery of paid items
+- Payment errors
+- Defective products
+Refunds processed within 5-7 business days.
+
+### Q44: What is your cancellation policy?
+**A:** Service cancellation requires:
+- 30 days written notice
+- Settlement of outstanding payments
+- Possible early termination fees
+- Machine removal within 5 business days
+
+### Q45: Is SnackVault FSSAI compliant?
+**A:** Yes, we comply with:
+- Food Safety & Standards Authority of India (FSSAI)
+- Local food safety regulations
+- Hygiene and sanitation standards
+- Regular compliance audits
+
+### Q46: Do you have liability insurance?
+**A:** Yes:
+- General liability coverage
+- Product liability insurance
+- Equipment insurance
+- Professional indemnity coverage
+
+### Q47: What allergen information is available?
+**A:** 
+- All products labeled with allergen info
+- Common allergens clearly marked
+- Detailed ingredient lists available
+- Support team can provide allergen details
+
+### Q48: How do you handle health complaints?
+**A:** We take health seriously:
+1. Report immediately via email/phone
+2. Provide product code, purchase date, symptoms
+3. Document incident with photos
+4. We'll investigate with supplier
+5. Appropriate action taken
+6. Compensation if warranted
+
+---
+
+## Partnership & Corporate
+
+### Q49: Can educational institutions partner with SnackVault?
+**A:** Yes! We offer special terms for:
+- Schools and colleges
+- Dedicated support
+- Customized products
+- Discounted rates
+- Contact our corporate team
+
+### Q50: Does SnackVault offer corporate packages?
+**A:** Yes, corporate programs include:
+- Multiple machine deployments
+- Customized products
+- Dedicated account manager
+- Volume discounts
+- Priority support
+
+### Q51: How do we become a partner?
+**A:** Partnership process:
+1. Contact our partnership team
+2. Discuss requirements and terms
+3. Sign partnership agreement
+4. Receive training and support
+5. Launch operations
+
+### Q52: What support do partners receive?
+**A:** Partner support includes:
+- Training on operations
+- Marketing assistance
+- Technical support 24/7
+- Regular performance reviews
+- Quarterly business meetings
+
+---
+
+## Miscellaneous
+
+### Q53: How environmentally friendly are your operations?
+**A:** Sustainability practices:
+- Recyclable packaging
+- Waste segregation programs
+- Energy-efficient machines
+- Carbon-neutral delivery options
+- Recycling bin placement
+
+### Q54: Do you accept special requests or events?
+**A:** Yes! For events:
+- Temporary machine deployment
+- Special product stocking
+- Custom pricing
+- Contact us with details
+
+### Q55: How can I provide feedback?
+**A:** We welcome feedback:
+- Email: hellosnackvault@gmail.com
+- Website feedback form
+- Phone surveys
+- In-app reviews (coming soon)
+- Social media (@snackvault)
+
+### Q56: Does SnackVault have a mobile app?
+**A:** Mobile app features (launching soon):
+- Find nearby machines
+- View product inventory
+- Digital wallet integration
+- Loyalty program access
+- Support chat
+
+### Q57: How do I stay updated on new offerings?
+**A:** Stay informed via:
+- Email newsletter (subscribe on website)
+- Social media (@snackvault on Instagram, Facebook)
+- Push notifications (through app)
+- Blog updates at snackvault.in
+
+### Q58: What is your customer support availability?
+**A:** 
+- **Email Support:** 24/7
+- **Phone Support:** Mon-Fri 9 AM - 6 PM IST
+- **Emergency Support:** 24/7 for critical issues
+- **Response Time:** Within 24-48 hours
+
+### Q59: Can I visit a machine before booking?
+**A:** Yes! We can:
+- Provide location details of existing machines
+- Arrange a demo at a nearby location
+- Show product samples
+- Answer all questions in-person
+
+### Q60: How do I contact SnackVault?
+**A:** Multiple contact options:
+- **Phone:** +91-9154256438
+- **Email:** hellosnackvault@gmail.com
+- **Website:** https://snackvault.in
+- **Address:** [Your Official Address]
+- **Social Media:** @snackvault
+
+---
+
+## Still Have Questions?
+
+Can't find your answer? We're here to help!
+
+**Contact SnackVault Support:**
+- 📧 Email: hellosnackvault@gmail.com
+- 📱 Phone: +91-9154256438
+- 🌐 Website: https://snackvault.in
+- 💬 Live Chat: Available on website (coming soon)
+
+**Follow Us:**
+- Facebook: facebook.com/snackvault
+- Instagram: @snackvault
+- LinkedIn: linkedin.com/company/snackvault
+
+---
+
+*Last Updated: December 7, 2025*
+*For the latest FAQs, visit: https://snackvault.in/faq*

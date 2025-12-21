@@ -1,0 +1,273 @@
+═══════════════════════════════════════════════════════════════════════════════
+                              PRIVACY POLICY
+                                 SnackVault
+═══════════════════════════════════════════════════════════════════════════════
+
+Last Updated: December 7, 2025
+Effective Date: December 7, 2025
+
+───────────────────────────────────────────────────────────────────────────────
+1. INTRODUCTION
+───────────────────────────────────────────────────────────────────────────────
+
+SnackVault ("Company," "we," "us," or "our") is committed to protecting your 
+privacy and ensuring you have a positive experience on our website and services. 
+This Privacy Policy explains how we collect, use, disclose, and safeguard your 
+information when you visit https://snackvault.in and utilize our services.
+
+We encourage you to read this Privacy Policy carefully. If you do not agree with 
+our policies and practices, please refrain from using our services.
+
+───────────────────────────────────────────────────────────────────────────────
+2. INFORMATION WE COLLECT
+───────────────────────────────────────────────────────────────────────────────
+
+2.1 INFORMATION PROVIDED BY YOU
+
+Contact Information
+  • Name, email address, and phone number
+  • Residential or business address
+  • Company name and professional designation
+
+Service Request Information
+  • Location details for machine placement
+  • Business type classification (residential, educational, commercial)
+  • Space specifications and technical requirements
+  • Payment information (processed securely through certified providers)
+
+Communication Data
+  • Inquiries, messages, and support requests
+  • Feedback and service complaints
+  • Survey responses and testimonials
+
+2.2 INFORMATION COLLECTED AUTOMATICALLY
+
+Website Activity
+  • IP address and device identifiers
+  • Browser type and operating system details
+  • Pages accessed and duration of visits
+  • Navigation patterns and user interactions
+  • Referring and exit page information
+
+Tracking Technologies
+  • First-party cookies for essential functionality
+  • Analytics cookies to measure engagement
+  • Marketing cookies for personalized experiences (optional)
+
+Device Data
+  • Device type and unique identifiers
+  • Mobile device specifications (if applicable)
+
+───────────────────────────────────────────────────────────────────────────────
+3. HOW WE USE YOUR INFORMATION
+───────────────────────────────────────────────────────────────────────────────
+
+We utilize collected information exclusively for legitimate business purposes:
+
+  ✓ Service Delivery — Installation, maintenance, and restocking operations
+  ✓ Customer Communications — Responding to inquiries and providing support
+  ✓ Billing & Payment Processing — Generating invoices and transaction handling
+  ✓ Marketing Initiatives — Promotional communications (with your consent)
+  ✓ Analytics & Optimization — Understanding user behavior and enhancing services
+  ✓ Legal Compliance — Meeting regulatory and statutory requirements
+  ✓ Fraud Prevention — Detecting and preventing unauthorized activities
+  ✓ Service Enhancement — Continuously improving website and user experience
+
+───────────────────────────────────────────────────────────────────────────────
+4. HOW WE SHARE YOUR INFORMATION
+───────────────────────────────────────────────────────────────────────────────
+
+4.1 TRUSTED SERVICE PROVIDERS
+
+We partner with carefully selected vendors who assist in service delivery:
+
+  • Payment Processing Partners — Secure transaction handling
+  • Communication Providers — Email and notification services
+  • Analytics Platforms — Google Analytics and similar tools
+  • Cloud Infrastructure — Secure data hosting services
+  • Installation Partners — Technical maintenance and support
+
+4.2 LEGAL OBLIGATIONS
+
+We may disclose information when legally required or necessary to:
+  • Comply with court orders or regulatory requirements
+  • Protect SnackVault's legal rights and interests
+  • Prevent fraudulent or unauthorized activities
+  • Safeguard user and public safety
+
+4.3 BUSINESS TRANSITIONS
+
+In the event of merger, acquisition, or business transfer, your information may 
+be transferred as part of the transaction.
+
+4.4 DATA PROTECTION COMMITMENT
+
+We do NOT sell or rent your personal information to third parties for any purpose.
+
+───────────────────────────────────────────────────────────────────────────────
+5. DATA RETENTION POLICY
+───────────────────────────────────────────────────────────────────────────────
+
+We retain your information according to the following schedule:
+
+  Account Information ..................... Duration of service + 1 year
+  Transaction Records ..................... 7 years (tax compliance)
+  Marketing Communications ................ Until unsubscribe request
+  Analytics Data .......................... 26 months
+  Support Communications .................. 2 years
+
+───────────────────────────────────────────────────────────────────────────────
+6. DATA SECURITY MEASURES
+───────────────────────────────────────────────────────────────────────────────
+
+SnackVault implements industry-leading security protocols:
+
+  • SSL/TLS Encryption — Secure data transmission protocols
+  • Password Protection — Advanced encryption algorithms
+  • Security Audits — Regular comprehensive reviews
+  • Access Controls — Role-based authentication systems
+  • Infrastructure Protection — Firewalls and intrusion detection
+
+SECURITY DISCLAIMER: While we employ robust security measures, no digital system 
+is impenetrable. We cannot guarantee absolute security of your information.
+
+───────────────────────────────────────────────────────────────────────────────
+7. YOUR PRIVACY RIGHTS
+───────────────────────────────────────────────────────────────────────────────
+
+7.1 ACCESS & DATA PORTABILITY
+
+You have the right to request access to and receive a copy of your personal data.
+
+7.2 CORRECTION & DELETION
+
+You may request correction of inaccurate information or deletion of unnecessary data.
+
+7.3 MARKETING OPT-OUT
+
+You can unsubscribe from marketing communications by:
+  • Clicking the unsubscribe link in email communications
+  • Contacting our Privacy Team directly
+  • Adjusting your notification preferences
+
+7.4 COOKIE MANAGEMENT
+
+You can control cookie settings through:
+  • Browser preferences and settings
+  • Our website's cookie preference center
+  • Third-party cookie disabling options
+
+7.5 DO NOT TRACK SIGNALS
+
+We respect and honor "Do Not Track" browser signals where supported.
+
+───────────────────────────────────────────────────────────────────────────────
+8. CHILDREN'S PRIVACY
+───────────────────────────────────────────────────────────────────────────────
+
+SnackVault services are designed for users 18 years of age and older. We do not 
+knowingly collect personal information from children. Upon discovery of such 
+collection, we will immediately delete the information.
+
+───────────────────────────────────────────────────────────────────────────────
+9. INTERNATIONAL DATA TRANSFERS
+───────────────────────────────────────────────────────────────────────────────
+
+SnackVault operates primarily within India. For international data transfers, we 
+ensure full compliance with applicable data protection regulations, including:
+  • GDPR (for European Union residents)
+  • Local data residency requirements
+  • International data protection standards
+
+───────────────────────────────────────────────────────────────────────────────
+10. THIRD-PARTY EXTERNAL LINKS
+───────────────────────────────────────────────────────────────────────────────
+
+Our website may contain hyperlinks to external websites. SnackVault is not 
+responsible for the privacy practices of third-party sites. We recommend 
+reviewing their privacy policies before providing any personal information.
+
+───────────────────────────────────────────────────────────────────────────────
+11. COOKIES & TRACKING TECHNOLOGIES
+───────────────────────────────────────────────────────────────────────────────
+
+11.1 COOKIE CATEGORIES
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ Cookie Type     │ Purpose                      │ Duration                    │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ Essential       │ Core website functionality   │ Session-based              │
+│ Analytics       │ User behavior measurement    │ 26 months                  │
+│ Marketing       │ Personalized advertising     │ 12 months                  │
+│ Preferences     │ User settings storage        │ 12 months                  │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+11.2 COOKIE MANAGEMENT
+
+Manage your cookie preferences through browser settings or our website's 
+dedicated cookie preference center.
+
+───────────────────────────────────────────────────────────────────────────────
+12. CALIFORNIA PRIVACY RIGHTS (CCPA)
+───────────────────────────────────────────────────────────────────────────────
+
+California residents have the right to:
+
+  ⊙ Know what personal information we collect about you
+  ⊙ Understand whether your information is sold or shared
+  ⊙ Request deletion of personal information
+  ⊙ Opt-out of information sale or sharing
+  ⊙ Exercise these rights without discrimination
+
+To exercise your CCPA rights, please contact:
+Email: hellosnackvault@gmail.com
+
+───────────────────────────────────────────────────────────────────────────────
+13. EUROPEAN PRIVACY RIGHTS (GDPR)
+───────────────────────────────────────────────────────────────────────────────
+
+EU residents have the following rights:
+
+  ⊙ Right to Access — Obtain copies of your personal data
+  ⊙ Right to Rectification — Correct inaccurate information
+  ⊙ Right to Erasure — Request deletion ("right to be forgotten")
+  ⊙ Right to Restrict Processing — Limit data usage
+  ⊙ Right to Data Portability — Receive data in portable format
+  ⊙ Right to Object — Oppose data processing
+  ⊙ Right to Withdraw Consent — At any time
+
+Data Protection Officer inquiries available upon request.
+
+───────────────────────────────────────────────────────────────────────────────
+14. POLICY UPDATES & MODIFICATIONS
+───────────────────────────────────────────────────────────────────────────────
+
+SnackVault reserves the right to update this Privacy Policy periodically to 
+reflect changes in our practices, technology, legal requirements, or other 
+factors. Updates will be effective immediately upon publication with an updated 
+"Last Updated" date. Your continued use of our services constitutes acceptance 
+of any modifications.
+
+───────────────────────────────────────────────────────────────────────────────
+15. CONTACT INFORMATION
+───────────────────────────────────────────────────────────────────────────────
+
+For privacy inquiries, data access requests, or complaints:
+
+  SnackVault — Privacy & Data Protection Team
+  
+  Email ...................... hellosnackvault@gmail.com
+  Phone ...................... +91-9154256438
+  Website .................... https://snackvault.in
+  Mailing Address ............ [Your Official Address]
+
+For GDPR-related complaints, contact your local Data Protection Authority.
+
+═══════════════════════════════════════════════════════════════════════════════
+
+By accessing and using SnackVault services, you acknowledge that you have read, 
+understood, and agree to be bound by this Privacy Policy.
+
+Last Updated: December 7, 2025
+
+═══════════════════════════════════════════════════════════════════════════════
