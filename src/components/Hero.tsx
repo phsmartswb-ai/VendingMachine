@@ -11,7 +11,7 @@ export function Hero() {
             {/* <div className="w-10 h-10 bg-white rounded-lg flex items-center justify-center">
               <span className="text-blue-600"></span>
             </div> */}
-            <span className="text-3xl"><b>SnackVault</b></span>
+            <span className="text-3xl"><b>Snapvend</b></span>
           </div>
           <div className="hidden md:flex items-center gap-8">
             <a href="#benefits" className="hover:text-blue-200 transition-colors">Benefits</a>

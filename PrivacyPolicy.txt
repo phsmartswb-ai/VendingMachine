@@ -1,6 +1,6 @@
 ═══════════════════════════════════════════════════════════════════════════════
                               PRIVACY POLICY
-                                 SnackVault
+                                 Snapvend
 ═══════════════════════════════════════════════════════════════════════════════
 
 Last Updated: December 7, 2025
@@ -10,10 +10,10 @@ Effective Date: December 7, 2025
 1. INTRODUCTION
 ───────────────────────────────────────────────────────────────────────────────
 
-SnackVault ("Company," "we," "us," or "our") is committed to protecting your 
+Snapvend ("Company," "we," "us," or "our") is committed to protecting your 
 privacy and ensuring you have a positive experience on our website and services. 
 This Privacy Policy explains how we collect, use, disclose, and safeguard your 
-information when you visit https://snackvault.in and utilize our services.
+information when you visit https://Snapvend.in and utilize our services.
 
 We encourage you to read this Privacy Policy carefully. If you do not agree with 
 our policies and practices, please refrain from using our services.
@@ -91,7 +91,7 @@ We partner with carefully selected vendors who assist in service delivery:
 
 We may disclose information when legally required or necessary to:
   • Comply with court orders or regulatory requirements
-  • Protect SnackVault's legal rights and interests
+  • Protect Snapvend's legal rights and interests
   • Prevent fraudulent or unauthorized activities
   • Safeguard user and public safety
 
@@ -120,7 +120,7 @@ We retain your information according to the following schedule:
 6. DATA SECURITY MEASURES
 ───────────────────────────────────────────────────────────────────────────────
 
-SnackVault implements industry-leading security protocols:
+Snapvend implements industry-leading security protocols:
 
   • SSL/TLS Encryption — Secure data transmission protocols
   • Password Protection — Advanced encryption algorithms
@@ -165,7 +165,7 @@ We respect and honor "Do Not Track" browser signals where supported.
 8. CHILDREN'S PRIVACY
 ───────────────────────────────────────────────────────────────────────────────
 
-SnackVault services are designed for users 18 years of age and older. We do not 
+Snapvend services are designed for users 18 years of age and older. We do not 
 knowingly collect personal information from children. Upon discovery of such 
 collection, we will immediately delete the information.
 
@@ -173,7 +173,7 @@ collection, we will immediately delete the information.
 9. INTERNATIONAL DATA TRANSFERS
 ───────────────────────────────────────────────────────────────────────────────
 
-SnackVault operates primarily within India. For international data transfers, we 
+Snapvend operates primarily within India. For international data transfers, we 
 ensure full compliance with applicable data protection regulations, including:
   • GDPR (for European Union residents)
   • Local data residency requirements
@@ -183,7 +183,7 @@ ensure full compliance with applicable data protection regulations, including:
 10. THIRD-PARTY EXTERNAL LINKS
 ───────────────────────────────────────────────────────────────────────────────
 
-Our website may contain hyperlinks to external websites. SnackVault is not 
+Our website may contain hyperlinks to external websites. Snapvend is not 
 responsible for the privacy practices of third-party sites. We recommend 
 reviewing their privacy policies before providing any personal information.
 
@@ -220,7 +220,7 @@ California residents have the right to:
   ⊙ Exercise these rights without discrimination
 
 To exercise your CCPA rights, please contact:
-Email: hellosnackvault@gmail.com
+Email: helloSnapvend@gmail.com
 
 ───────────────────────────────────────────────────────────────────────────────
 13. EUROPEAN PRIVACY RIGHTS (GDPR)
@@ -242,7 +242,7 @@ Data Protection Officer inquiries available upon request.
 14. POLICY UPDATES & MODIFICATIONS
 ───────────────────────────────────────────────────────────────────────────────
 
-SnackVault reserves the right to update this Privacy Policy periodically to 
+Snapvend reserves the right to update this Privacy Policy periodically to 
 reflect changes in our practices, technology, legal requirements, or other 
 factors. Updates will be effective immediately upon publication with an updated 
 "Last Updated" date. Your continued use of our services constitutes acceptance 
@@ -254,18 +254,18 @@ of any modifications.
 
 For privacy inquiries, data access requests, or complaints:
 
-  SnackVault — Privacy & Data Protection Team
+  Snapvend — Privacy & Data Protection Team
   
-  Email ...................... hellosnackvault@gmail.com
+  Email ...................... helloSnapvend@gmail.com
   Phone ...................... +91-9154256438
-  Website .................... https://snackvault.in
+  Website .................... https://Snapvend.in
   Mailing Address ............ [Your Official Address]
 
 For GDPR-related complaints, contact your local Data Protection Authority.
 
 ═══════════════════════════════════════════════════════════════════════════════
 
-By accessing and using SnackVault services, you acknowledge that you have read, 
+By accessing and using Snapvend services, you acknowledge that you have read, 
 understood, and agree to be bound by this Privacy Policy.
 
 Last Updated: December 7, 2025

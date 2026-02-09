@@ -23,7 +23,7 @@ export default async function handler(req, res) {
     await transporter.sendMail({
       from: process.env.EMAIL_USER,
       to: email,
-      subject: "SnackVault - We Received Your Inquiry",
+      subject: "Snapvend - We Received Your Inquiry",
       html: `
         <h2>Thank you for reaching out!</h2>
         <p>Hi ${name},</p>
@@ -31,13 +31,13 @@ export default async function handler(req, res) {
         <p><strong>Location Type:</strong> ${locationType}</p>
         <p><strong>Your Message:</strong></p>
         <p>${message}</p>
-        <p>Best regards,<br>SnackVault Team</p>
+        <p>Best regards,<br>Snapvend Team</p>
       `
     });
 
     await transporter.sendMail({
       from: process.env.EMAIL_USER,
-      to: "hellosnackvault@gmail.com",
+      to: "helloSnapvend@gmail.com",
       subject: `New Inquiry from ${name}`,
       html: `
         <p><strong>Name:</strong> ${name}</p>

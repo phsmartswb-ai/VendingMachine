@@ -19,7 +19,7 @@ export function CTA() {
                 Ready to Enhance Your Space?
               </h2>
               <p className="text-lg text-blue-100 max-w-2xl mx-auto">
-                Join hundreds of satisfied property managers, administrators, and facility owners who've upgraded their amenities with SnackVault.
+                Join hundreds of satisfied property managers, administrators, and facility owners who've upgraded their amenities with Snapvend.
               </p>
             </div>
 
@@ -76,7 +76,7 @@ export function CTA() {
             </form>
 
             <p className="text-center text-sm text-blue-200">
-              Have questions? Call us at <span className="text-white">+91-9154256438</span> or email <span className="text-white">hellosnackvault@gmail.com</span>
+              Have questions? Call us at <span className="text-white">+91-9154256438</span> or email <span className="text-white">helloSnapvend@gmail.com</span>
             </p>
           </div>
         </div>

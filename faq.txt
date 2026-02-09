@@ -1,14 +1,14 @@
-# Frequently Asked Questions - SnackVault
+# Frequently Asked Questions - Snapvend
 
 ## General Questions
 
-### Q1: What is SnackVault?
-**A:** SnackVault is a smart vending machine service provider offering 24/7 snack and beverage access for residential apartments, educational institutions, offices, and commercial spaces. We handle installation, maintenance, restocking, and support.
+### Q1: What is Snapvend?
+**A:** Snapvend is a smart vending machine service provider offering 24/7 snack and beverage access for residential apartments, educational institutions, offices, and commercial spaces. We handle installation, maintenance, restocking, and support.
 
-### Q2: Where does SnackVault operate?
-**A:** Currently, SnackVault operates across India. We're expanding to new regions regularly. Contact us to check if we serve your area.
+### Q2: Where does Snapvend operate?
+**A:** Currently, Snapvend operates across India. We're expanding to new regions regularly. Contact us to check if we serve your area.
 
-### Q3: What types of spaces can have a SnackVault machine?
+### Q3: What types of spaces can have a Snapvend machine?
 **A:** Our machines are suitable for:
 - Residential apartments and societies
 - Schools and colleges
@@ -20,7 +20,7 @@
 - Public spaces and transit areas
 
 ### Q4: How do I get started?
-**A:** Simply fill out the contact form on our website, call us at +91-9154256438, or email hellosnackvault@gmail.com. Our team will discuss your requirements and schedule a site visit.
+**A:** Simply fill out the contact form on our website, call us at +91-9154256438, or email helloSnapvend@gmail.com. Our team will discuss your requirements and schedule a site visit.
 
 ---
 
@@ -60,7 +60,7 @@
 - **Custom:** As per agreement
 
 ### Q12: What happens if a machine breaks down?
-**A:** Contact us immediately at hellosnackvault@gmail.com or +91-9154256438. Our response time is within 48 hours for standard issues and 24 hours for critical problems.
+**A:** Contact us immediately at helloSnapvend@gmail.com or +91-9154256438. Our response time is within 48 hours for standard issues and 24 hours for critical problems.
 
 ### Q13: Do you provide emergency maintenance?
 **A:** Yes, emergency maintenance is available for critical issues affecting customer access. Contact our support team for details.
@@ -222,9 +222,9 @@
 ### Q33: How do I report a problem?
 **A:** Multiple ways to report:
 - **Phone:** +91-9154256438
-- **Email:** hellosnackvault@gmail.com
-- **Website:** Contact form at snackvault.in
-- **In-App:** Through SnackVault mobile app (coming soon)
+- **Email:** helloSnapvend@gmail.com
+- **Website:** Contact form at Snapvend.in
+- **In-App:** Through Snapvend mobile app (coming soon)
 
 ### Q34: What is your response time for issues?
 **A:**
@@ -315,7 +315,7 @@ Refunds processed within 5-7 business days.
 - Possible early termination fees
 - Machine removal within 5 business days
 
-### Q45: Is SnackVault FSSAI compliant?
+### Q45: Is Snapvend FSSAI compliant?
 **A:** Yes, we comply with:
 - Food Safety & Standards Authority of India (FSSAI)
 - Local food safety regulations
@@ -349,7 +349,7 @@ Refunds processed within 5-7 business days.
 
 ## Partnership & Corporate
 
-### Q49: Can educational institutions partner with SnackVault?
+### Q49: Can educational institutions partner with Snapvend?
 **A:** Yes! We offer special terms for:
 - Schools and colleges
 - Dedicated support
@@ -357,7 +357,7 @@ Refunds processed within 5-7 business days.
 - Discounted rates
 - Contact our corporate team
 
-### Q50: Does SnackVault offer corporate packages?
+### Q50: Does Snapvend offer corporate packages?
 **A:** Yes, corporate programs include:
 - Multiple machine deployments
 - Customized products
@@ -402,13 +402,13 @@ Refunds processed within 5-7 business days.
 
 ### Q55: How can I provide feedback?
 **A:** We welcome feedback:
-- Email: hellosnackvault@gmail.com
+- Email: helloSnapvend@gmail.com
 - Website feedback form
 - Phone surveys
 - In-app reviews (coming soon)
-- Social media (@snackvault)
+- Social media (@Snapvend)
 
-### Q56: Does SnackVault have a mobile app?
+### Q56: Does Snapvend have a mobile app?
 **A:** Mobile app features (launching soon):
 - Find nearby machines
 - View product inventory
@@ -419,9 +419,9 @@ Refunds processed within 5-7 business days.
 ### Q57: How do I stay updated on new offerings?
 **A:** Stay informed via:
 - Email newsletter (subscribe on website)
-- Social media (@snackvault on Instagram, Facebook)
+- Social media (@Snapvend on Instagram, Facebook)
 - Push notifications (through app)
-- Blog updates at snackvault.in
+- Blog updates at Snapvend.in
 
 ### Q58: What is your customer support availability?
 **A:** 
@@ -437,13 +437,13 @@ Refunds processed within 5-7 business days.
 - Show product samples
 - Answer all questions in-person
 
-### Q60: How do I contact SnackVault?
+### Q60: How do I contact Snapvend?
 **A:** Multiple contact options:
 - **Phone:** +91-9154256438
-- **Email:** hellosnackvault@gmail.com
-- **Website:** https://snackvault.in
+- **Email:** helloSnapvend@gmail.com
+- **Website:** https://Snapvend.in
 - **Address:** [Your Official Address]
-- **Social Media:** @snackvault
+- **Social Media:** @Snapvend
 
 ---
 
@@ -451,18 +451,18 @@ Refunds processed within 5-7 business days.
 
 Can't find your answer? We're here to help!
 
-**Contact SnackVault Support:**
-- 📧 Email: hellosnackvault@gmail.com
+**Contact Snapvend Support:**
+- 📧 Email: helloSnapvend@gmail.com
 - 📱 Phone: +91-9154256438
-- 🌐 Website: https://snackvault.in
+- 🌐 Website: https://Snapvend.in
 - 💬 Live Chat: Available on website (coming soon)
 
 **Follow Us:**
-- Facebook: facebook.com/snackvault
-- Instagram: @snackvault
-- LinkedIn: linkedin.com/company/snackvault
+- Facebook: facebook.com/Snapvend
+- Instagram: @Snapvend
+- LinkedIn: linkedin.com/company/Snapvend
 
 ---
 
 *Last Updated: December 7, 2025*
-*For the latest FAQs, visit: https://snackvault.in/faq*
+*For the latest FAQs, visit: https://Snapvend.in/faq*

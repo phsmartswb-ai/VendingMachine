@@ -36,10 +36,10 @@ export default async function handler(
           <p><strong>Your Message:</strong></p>
           <p>${message.replace(/\n/g, "<br>")}</p>
         </div>
-        <p>Best regards,<br><strong>SnackVault Team</strong></p>
+        <p>Best regards,<br><strong>Snapvend Team</strong></p>
         <hr style="border: none; border-top: 1px solid #e5e7eb; margin: 20px 0;">
         <p style="font-size: 12px; color: #6b7280;">
-          Contact: +91-9154256438 | hellosnackvault@gmail.com
+          Contact: +91-9154256438 | helloSnapvend@gmail.com
         </p>
       </div>
     `;
@@ -65,7 +65,7 @@ export default async function handler(
     await transporter.sendMail({
       from: process.env.SMTP_FROM,
       to: email,
-      subject: "SnackVault - We Received Your Inquiry",
+      subject: "Snapvend - We Received Your Inquiry",
       html: userEmailHtml
     });
 

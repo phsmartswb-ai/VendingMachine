@@ -11,7 +11,7 @@ export function Footer() {
               {/* <div className="w-10 h-10 bg-blue-600 rounded-lg flex items-center justify-center">
                 <span className="text-white">🍿</span>
               </div> */}
-              <span className="text-3xl text-white"><b>SnackVault</b></span>
+              <span className="text-3xl text-white"><b>Snapvend</b></span>
             </div>
             <p className="text-sm mb-4">
               Making snack access convenient, contactless, and reliable for modern spaces everywhere.
@@ -64,7 +64,7 @@ export function Footer() {
               </li>
               <li className="flex items-start gap-2">
                 <Mail className="w-4 h-4 mt-0.5 flex-shrink-0" />
-                <span>hellosnackvault@gmail.com</span>
+                <span>helloSnapvend@gmail.com</span>
               </li>
               <li className="flex items-start gap-2">
                 <MapPin className="w-4 h-4 mt-0.5 flex-shrink-0" />
@@ -75,7 +75,7 @@ export function Footer() {
         </div>
 
         <div className="border-t border-gray-800 pt-8 text-sm text-center">
-          <p>&copy; 2025 SnackVault. All rights reserved. | <a href="/PrivacyPolicy.txt" className="hover:text-white transition-colors" target="_blank">Privacy Policy</a> | <a href="#" className="hover:text-white transition-colors">Terms of Service</a></p>
+          <p>&copy; 2025 Snapvend. All rights reserved. | <a href="/PrivacyPolicy.txt" className="hover:text-white transition-colors" target="_blank">Privacy Policy</a> | <a href="#" className="hover:text-white transition-colors">Terms of Service</a></p>
         </div>
       </div>
     </footer>
